@@ -1,7 +1,7 @@
 # HookTools
 
 ## Overview
-HookTools is a compact yet powerful tool designed to aid in the analysis of extremely evasive malware. By leveraging various hooks and access control mechanisms, HookTools simplifies the process of understanding some sophisticated malware.
+HookTools is a compact yet powerful tool designed to aid in the analysis of extremely evasive malware. 
 
 ## Features
 HookTools comes with a series of toggleable features:
